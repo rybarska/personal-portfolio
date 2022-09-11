@@ -5,7 +5,7 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm Agata Rybarska, and I am",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
@@ -14,15 +14,15 @@ export const attributes = {
       linkedin: { link: 'https://linkedin.com', show: true },
     },
     typed: [
-      { text: 'fast websites.' },
-      { text: 'beautiful logos.' },
-      { text: 'great experiences.' },
+      { text: 'web developer.' },
+      { text: 'researcher.' },
+      { text: 'project manager.' },
     ],
   },
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'RESEARCHER with expertise in project management, policy advice, technical cooperation on public health, and EU-China partnership building. Creative and critical thinker. Excels at investigating complex problems, interdisciplinary collaboration, and developing solutions. Expert in verbal, written, and visual communication. Outstanding in foreign languages.',
   },
   features: [
     {
@@ -82,5 +82,5 @@ export const attributes = {
     ],
     title: 'My work',
   },
-  footer: { text: '© John Doe' },
+  footer: { text: '© Agat Rybarska' },
 };
